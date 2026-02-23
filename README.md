@@ -2,7 +2,7 @@
 
 # 🦊 Twolingo
 
-**Learn English every day — the fun way.**
+**Learn English every day with the fun way.**
 
 [![Live Demo](https://img.shields.io/badge/Try%20It%20Now-twolingo.vercel.app-orange?style=for-the-badge)](https://twolingo.vercel.app)
 
@@ -11,7 +11,7 @@
 ---
 
 Twolingo is a free English learning app that makes studying feel like a game.
-Earn XP, keep your streak alive, compete on the leaderboard, and level up your English — one lesson at a time.
+Earn XP, keep your streak alive, compete on the leaderboard, and level up your English. One lesson at a time.
 
 ---
 
@@ -22,7 +22,7 @@ Earn XP, keep your streak alive, compete on the leaderboard, and level up your E
 - ⚡ **Earn XP & Gems** — get rewarded for every lesson you complete
 - 🏆 **Climb the leaderboard** — see how you rank against other learners
 - 📖 **Read stories** — short English stories to sharpen your reading
-- 🛍️ **Visit the shop** — spend your gems on power-ups and streak protection
+- 🛍️ **Visit the shop** — spend your gems on power ups and streak protection
 
 ---
 
@@ -30,7 +30,7 @@ Earn XP, keep your streak alive, compete on the leaderboard, and level up your E
 
 1. Go to [twolingo.vercel.app](https://twolingo.vercel.app)
 2. Create a free account
-3. Start your first lesson — it only takes a minute!
+3. Start your first lesson, it only takes a minute!
 
 ---
 
