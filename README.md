@@ -18,7 +18,9 @@ Earn XP, keep your streak alive, compete on the leaderboard, and level up your E
 
 ## What you can do
 
-- 📚 **Take lessons** — multiple choice, translation, fill in the blank, and word arrangement
+- 📚 **Take lessons & course** — multiple choice, translation, fill in the blank, and word arrangement
+- ✏ **Make Course** — auto ai generative course based on your book or topic
+- 🧠 **Mindmap** — learn with easy step and see all of the magic of your brain 
 - 🔥 **Build streaks** — come back daily and watch your streak grow
 - ⚡ **Earn XP & Gems** — get rewarded for every lesson you complete
 - 🏆 **Climb the leaderboard** — see how you rank against other learners
