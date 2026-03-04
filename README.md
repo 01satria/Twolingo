@@ -11,7 +11,7 @@
 
 ---
 
-Twolingo is a free English learning app that makes studying feel like a game.
+Twolingo is a free learning platform that makes studying feel like a game.
 Earn XP, keep your streak alive, compete on the leaderboard, and level up your English. One lesson at a time.
 
 ---
