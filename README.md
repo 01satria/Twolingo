@@ -2,6 +2,7 @@
 
 # 🦊 Twolingo
 
+![preview](public/image/image.jpg)
 **Learn English every day with the fun way.**
 
 [![Live Demo](https://img.shields.io/badge/Try%20It%20Now-twolingo.vercel.app-orange?style=for-the-badge)](https://twolingo.vercel.app)
